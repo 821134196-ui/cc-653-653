@@ -13,3 +13,12 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 本项目
+backend/data/
+*.db
+*.db-shm
+*.db-wal
+
+# 本地编译产物
+backend/shorepower
